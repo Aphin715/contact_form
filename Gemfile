@@ -40,6 +40,7 @@ group :test, :development do
   gem 'rspec-rails'
   gem 'capybara'
   gem 'launchy'
+  gem 'valid_attribute'
 end
 
 group :test do
